@@ -1,6 +1,6 @@
 (function() {
     const h = 1078.66;
-    const m = 400;
+    const m = 500;
     const o = (m / h) * 100;
     setTimeout(() => {
         document.getElementById('bar').style.width = o.toFixed(2) + '%';
