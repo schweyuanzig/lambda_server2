@@ -1,5 +1,5 @@
 (function() {
-    const h = 1078.66;
+    const h = 872.54;
     const m = 500;
     const o = (m / h) * 100;
     setTimeout(() => {
